@@ -3,6 +3,7 @@
 ## Introduction
 - Just like last week, we are going to use `index.html` to write our program.
 - It's located in the left hand console as shown:
+  
 ![image](image.png)
 
 
