@@ -1,15 +1,13 @@
 # Introduction to Web Design 📚
 
-## My First Webpage 👨‍💻
-
-## Part A:
+## Part A - My First Webpage 👨‍💻
 - We are going to use `trinket.io` to build our webpage.
 
 ![image](https://github.com/user-attachments/assets/fe4229be-dbd9-4710-87c6-958d04837248)
 
 Click on _"New Tinket"_ and select `HTML`
 
-![image](https://github.com/user-attachments/assets/a1c31e98-b3cc-4e63-b5ff-8003b2475d75)
+![image](https://github.com/user-attachments/assets/2a977e32-07e7-49a6-886e-1df1bc90a902)
 
 - Type the lines of code below into `index.html`, be careful of spelling mistakes and any *"syntax"* errors.
 
@@ -30,10 +28,6 @@ Click on _"New Tinket"_ and select `HTML`
 ````
 
 - Now we are going to run our code to see how it looks in our *"Webview Browser"*.
-
-- Click on the green *"RUN"* button at the top of the screen.
-
-![image](image_5.png)
 
 - Your new webpage will appear in the *"Webview Browser"* on the right.
 
