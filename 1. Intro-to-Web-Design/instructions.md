@@ -1,18 +1,15 @@
 # Introduction to Web Design 📚
 
-## What is Replit? 
-- Replit is a San Francisco based start-up and an online IDE *(Integrated Development Environment.)*
-- Replit allows users to create online projects in any programming language `(HTML, CSS, PYthon, JavaScript)` etc.
-- Replit has a global community where programmers can talk, learn, and collaborate *(work together)* online.
-- Replit is also used in schools through *"Replit Teams for Education"*, a tool used to teach programming in the classroom.
-
-# My First Webpage 👨‍💻
+## My First Webpage 👨‍💻
 
 ## Part A:
-- We are going to use `index.html` to write our program.
-- It's located in the left hand console as shown:
+- We are going to use `trinket.io` to build our webpage.
 
-![image](image_4.png)
+![image](https://github.com/user-attachments/assets/fe4229be-dbd9-4710-87c6-958d04837248)
+
+Click on _"New Tinket"_ and select `HTML`
+
+![image](https://github.com/user-attachments/assets/a1c31e98-b3cc-4e63-b5ff-8003b2475d75)
 
 - Type the lines of code below into `index.html`, be careful of spelling mistakes and any *"syntax"* errors.
 
