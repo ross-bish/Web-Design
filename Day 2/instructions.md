@@ -1,9 +1,6 @@
 # Web Design - Day 2 👨‍💻
 
-- Just like last week, we are going to use `index.html` to write our program.
-- Remember, it's located in the left hand console as shown:
-
-![image](image_2.png)
+- Just like last week, we are going to use `trinket.io` to create our webpage.
 
 - Type the lines of code below into `index.html`, be careful of spelling mistakes and any *"syntax"* errors.
 ````html
