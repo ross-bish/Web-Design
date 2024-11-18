@@ -22,12 +22,6 @@
 
 </html>
 ````
-- Now we are going to run our code to see how it looks in our *"Webview Browser"*.
-
-- Click on the green _**"Run"**_ button at the top of the screen.
-![image](image_4.png) 
-
-- Your new Webpage will appear in the *"Webview Browser"* on the right.
 
 
 ## Task 1 🕵️‍♂️
