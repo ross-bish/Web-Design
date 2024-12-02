@@ -4,7 +4,7 @@
 
 - Type the lines of code below into `index.html`, be careful of spelling mistakes and any *"syntax"* errors.
 ````html
-<!doctype html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -16,7 +16,7 @@
 
 <body bgcolor="#FF6000">
   <h1 align="center">My Second Webpage</h1>
-  <p>Welcome to my <strong>second</strong> webpage. I am writing this page using Replit.</p>
+  <p>Welcome to my <strong>second</strong> webpage. I am writing this page using Trinket.</p>
   <p>By learning html, I'll be able to create my own web pages.<br></p>
 </body>
 
