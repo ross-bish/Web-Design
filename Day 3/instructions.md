@@ -1,11 +1,7 @@
 # Web Design - Day 3 📚
 
 ## Introduction
-- Just like last week, we are going to use `index.html` to write our program.
-- It's located in the left hand console as shown:
-  
-![image](image.png)
-
+- Just like last week, we are going to use `Trinket` to write our program.
 
 - Type the lines of code below into `index.html`, be careful of spelling mistakes and any *"syntax"* errors.
 - Chat to the person sitting beside you about what the code does.
